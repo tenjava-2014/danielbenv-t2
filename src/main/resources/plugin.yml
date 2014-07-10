@@ -1,0 +1,3 @@
+name: danielbenv-t2
+main: com.tenjava.entries.danielbenv.t2.TenJava
+version: '${project.version}'
